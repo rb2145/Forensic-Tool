@@ -68,10 +68,6 @@ The Forensic Tool is a robust and versatile application designed to perform thor
 4. **Full PC Scan**:
    ![Full PC Scan](path-to-screenshot-full-pc-scan)
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests for review. Make sure to adhere to the coding standards and include appropriate tests with your submissions.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
