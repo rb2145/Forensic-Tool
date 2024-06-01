@@ -77,5 +77,3 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a comprehensive overview of the project, highlighting its technical aspects and features, which should impress potential recruiters and users alike.
